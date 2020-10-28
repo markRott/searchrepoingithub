@@ -1,4 +1,4 @@
-**Live search repositories in GitHub application**
+**Application for live-search repositories in GitHub**
 
 A small project for search repositories in GitHub. 
 This project was written using MVVM architecture. 
@@ -22,7 +22,7 @@ This project was written using MVVM architecture.
 ![Welcome](/app/src/main/assets/welcome.jpg)
 ![Result](/app/src/main/assets/result.jpg)
 ![Empty result](/app/src/main/assets/empty_result.jpg)
-![Empty result](/app/src/main/assets/empty_result.jpg)
+![Error: No internet connection](/app/src/main/assets/error_no_internet.jpg)
 
 ---
 
