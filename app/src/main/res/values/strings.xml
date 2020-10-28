@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Search repo in GitHub</string>
+    <string name="hint_github_repo_name">Type a GitHub repo name</string>
+    <string name="search_result_is_empty">Search result is empty</string>
+    <string name="msg_welcome_label">Welcome to GitHub search</string>
+    <string name="msg_search_result_is_empty">Search result is empty</string>
+</resources>
