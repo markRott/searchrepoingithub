@@ -7,13 +7,27 @@ This project was written using MVVM architecture.
 
 **To develop this application, I used the following technologies:**
 
- * MVVM
- * Coroutines
- * ViewModel
- * LiveData
- * Retrofit
- * Dagger Hilt
- * Gson
+- MVVM
+- Coroutines
+- ViewModel
+- LiveData
+- Retrofit
+- Dagger Hilt
+- Gson
 
-Project state
- ![Welcome screen](/app/src/main/assets/welcome.jpg)
+---
+
+**Project states:**
+
+![Welcome](/app/src/main/assets/welcome.jpg)
+![Result](/app/src/main/assets/result.jpg)
+![Empty result](/app/src/main/assets/empty_result.jpg)
+![Empty result](/app/src/main/assets/empty_result.jpg)
+
+---
+
+**Search examples:**
+
+![tetris](/app/src/main/assets/tetris.jpg)
+![android](/app/src/main/assets/android.jpg)
+![chrome](/app/src/main/assets/chrome.jpg)
